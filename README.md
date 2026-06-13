@@ -1,6 +1,6 @@
 # Solutions Manual for Bruce E. Hansen's *Econometrics*
 
-This repository contains a sample chapter and the accompanying code for my book, *Solutions Manual for Econometrics by Bruce E. Hansen: A Patient and Pedagogical Approach*.
+This repository contains  the accompanying code for my book, *Solutions Manual for Econometrics by Bruce E. Hansen: A Patient and Pedagogical Approach*.
 
 
 
